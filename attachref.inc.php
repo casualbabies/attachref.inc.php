@@ -3,6 +3,7 @@
 // PukiWiki - Yet another WikiWikiWeb clone.
 //
 // $Id: attachref.inc.php,v 0.14 2003/10/08 04:10:29 sha Exp $
+// PHP7 Split関数終了によりexplode関数に変更 : 2019/12/11
 //
 
 /*
